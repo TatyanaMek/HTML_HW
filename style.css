@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    background-color: beige;
+}
+
+header {
+    text-align: center;
+    background-color: beige;
+    color: blueviolet;
+    width: 1700px;
+    margin: auto;
+}
+
+main {
+    color: darkmagenta;
+}
+
+footer {
+    text-align: center;
+    background-color: beige;
+    color: black;
+}
